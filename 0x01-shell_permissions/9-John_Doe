@@ -1,2 +1,2 @@
-#!/bin/dash
-chmod 743 hello 
+#!/bin/bash
+chmod 753 hello 
